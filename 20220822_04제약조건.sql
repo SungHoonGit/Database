@@ -100,7 +100,7 @@ values(1, 'È«±æµ¿', 10, 20, 30, 'incheon');    -- addrÄ®·³¿¡ 'Incheon' Çã¿ë ¾ÊÇÔ
 insert into sungjuk(sno, uname, kor, eng, mat, addr)
 values (2, '¹«±ÃÈ­', 10, 20, 30, 'Seoul');
 
-select * from sungjuk;
+
 
 
 
